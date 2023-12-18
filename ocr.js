@@ -1,4 +1,5 @@
-[
+const or = [
+
     {
         "article": "Art. 1",
         "content": "1 Zum Abschlusse eines Vertrages ist die übereinstimmende gegen sei-\ntige Willensäusserung der Parteien erforderlich.\n2 Sie kann eine ausdrückliche oder stillschweigende sein.  "
@@ -6532,3 +6533,7 @@
         "content": "Dieses Gesetz untersteht dem fakultativen Referendum."
     }
 ]
+
+
+
+localStorage.setItem("or", JSON.stringify(or))
