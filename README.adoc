@@ -1,3 +1,85 @@
 # Tutoriat
 
+## Comments
+ 
+```javascript
+// yoamma
+/*jaredowen*/
+```
 
+## Variablen
+
+Berechne das Durchnschnittsalter aller anwesenden.
+
+- numbers
+- string
+- boolean
+- objects
+- arrays
+- lists
+- ...
+
+
+## Operatoren
+
+
+```javascript
+const a = 10;
+
+a + 10      // 20
+a - 10      // 0
+a * 10      // 100
+a / 10      // 1
+a % 9       // 1 
+```
+
+## Conditions
+
+```javascript
+a == 10; // true
+a >= 10;
+a <= 10;
+```
+
+
+## Kontrollstrukturen
+
+
+
+```javascript
+if (condition){
+
+}else{
+
+}
+```
+
+```javascript
+while(condition){
+
+}
+```
+
+
+Berechne die ersten 10 Kolatzzahlen
+
+https://de.wikipedia.org/wiki/Collatz-Problem
+
+## Funktionen
+
+
+```javascript
+function name(){
+
+}
+
+function name(test){
+    console.log(test)
+}
+
+
+
+const name
+```
+
+berechne die ersten 10 Fibonaci Zahlen per Rekursion
